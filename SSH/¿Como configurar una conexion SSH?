@@ -1,0 +1,13 @@
+La configuraciòn consiste en crear una conexiòn ssh en un sistema debian.
+El sistema debian se vuelve un servidor remoto y se puede ingresar desde otro 
+sistema operativo como windows. 
+para hacerla usè estas herramientas:
+-Putty en windows
+-https://phoenixnap.com/kb/how-to-enable-ssh-on-debian
+
+notas: 
+El sistema debian actùa como servidor SSH.
+El sistema windows actua como cliente SSH.
+con SSH tienes conexiòn segura.
+ 
+
